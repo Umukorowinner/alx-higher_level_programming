@@ -2,4 +2,4 @@
 # Author -winner umukoro
 
 def pow(a, b):
-    return (a ** b)
+    return (a ** b
